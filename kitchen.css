@@ -1,0 +1,16 @@
+.heading{
+    width: 100%;
+    font-size: 50px;
+}
+
+body{
+    background-size: cover;
+}
+
+
+
+#back_button{
+    float: right;
+    width:30;
+   }
+   

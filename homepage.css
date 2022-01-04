@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(#b92b27,#1565C0);
+    background-size: cover;
+}
+
+
+.heading{
+    width: 100%;
+    font-size:35px ;
+}
+#a_bedroom,#a_car,#a_kitchen,#a_tv{
+    color: black;
+    font-size: 75px;
+    border-radius: 20px;
+}
